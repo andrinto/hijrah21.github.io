@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SISTEM INFORMASI"
-excerpt: "Example and code for using link posts."
+excerpt: "salah satu jurusan di fakultas sains dan teknologi."
 tags: [sample post, link post]
 link: http://mademistakes.com  
 share: true
